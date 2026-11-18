@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3km-collab.github.io/us-multi-family-property-valuation-rental-yield--23/sitemap.xml
