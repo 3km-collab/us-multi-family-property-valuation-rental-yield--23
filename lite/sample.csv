@@ -1,0 +1,51 @@
+id,name,category,region,value_usd,quantity,score,active,updated_at
+R100000,Cedar Fintech 0,Manufacturing,LATAM,2876.45,155,18.5,True,2025-02-02
+R100001,Nova Logistics 1,Energy,Europe,4670.85,385,76.1,True,2024-07-04
+R100002,Quantum Retail 2,Retail,MEA,1954.24,474,85.8,False,2024-05-23
+R100003,Summit Education 3,Retail,LATAM,1525.68,450,85.1,False,2024-02-14
+R100004,Lumen Retail 4,Manufacturing,Europe,1965.66,208,91.5,True,2025-11-17
+R100005,Bright E-Commerce 5,SaaS,APAC,367.0,340,87.2,True,2025-11-08
+R100006,Prime E-Commerce 6,Logistics,LATAM,2142.56,102,44.6,True,2024-01-01
+R100007,Prime Real Estate 7,Healthcare,MEA,1178.39,384,1.5,False,2024-04-29
+R100008,Vertex Fintech 8,Logistics,MEA,3090.6,233,3.9,False,2024-03-06
+R100009,North Real Estate 9,E-Commerce,MEA,551.24,469,81.1,True,2024-07-09
+R100010,Quantum E-Commerce 10,Healthcare,North America,99.12,403,72.6,False,2025-10-05
+R100011,Summit Manufacturing 11,Real Estate,LATAM,4769.78,179,73.4,True,2025-02-13
+R100012,North Logistics 12,E-Commerce,APAC,4676.05,409,60.8,False,2024-04-30
+R100013,Peak Healthcare 13,Education,MEA,3715.4,352,50.1,True,2025-05-21
+R100014,Nova E-Commerce 14,E-Commerce,MEA,1533.91,13,32.7,True,2025-07-24
+R100015,Bright Fintech 15,Fintech,Europe,4266.63,262,69.7,False,2025-06-10
+R100016,Vertex Education 16,Education,North America,1627.46,250,4.9,False,2024-09-15
+R100017,Orbit SaaS 17,Healthcare,LATAM,2942.3,25,79.2,True,2025-05-31
+R100018,Peak SaaS 18,E-Commerce,APAC,3848.8,478,13.8,True,2024-08-29
+R100019,Blue Healthcare 19,Healthcare,North America,765.06,372,5.4,False,2025-02-07
+R100020,Peak Energy 20,Education,APAC,50.29,379,70.5,False,2025-08-22
+R100021,Peak Retail 21,Real Estate,LATAM,2607.38,79,20.6,True,2024-10-17
+R100022,Peak Logistics 22,Retail,MEA,4560.52,95,0.5,True,2025-08-19
+R100023,Alpha SaaS 23,SaaS,North America,1312.16,191,78.6,True,2025-05-29
+R100024,Cedar Logistics 24,E-Commerce,APAC,4593.49,144,36.2,True,2024-08-18
+R100025,Apex Logistics 25,Fintech,Europe,1454.25,46,74.6,True,2024-04-24
+R100026,Lumen Healthcare 26,Manufacturing,LATAM,4950.2,10,54.3,True,2025-05-09
+R100027,Quantum Healthcare 27,Education,APAC,4643.82,94,81.6,False,2025-02-17
+R100028,Bright Retail 28,Healthcare,MEA,2557.43,255,19.0,True,2025-03-26
+R100029,Apex SaaS 29,Education,Europe,3221.16,189,9.1,False,2024-08-27
+R100030,Cedar Fintech 30,Retail,MEA,2561.08,301,80.3,True,2025-09-27
+R100031,Cedar Logistics 31,Fintech,LATAM,4546.2,295,36.4,True,2024-08-20
+R100032,Cedar Education 32,Manufacturing,LATAM,194.85,472,4.7,False,2025-03-30
+R100033,Quantum Logistics 33,Retail,APAC,2183.17,374,70.4,False,2025-09-10
+R100034,Bright Real Estate 34,SaaS,LATAM,4731.22,336,18.8,True,2025-01-30
+R100035,Bright Healthcare 35,Logistics,APAC,906.58,479,32.0,False,2025-02-28
+R100036,Lumen SaaS 36,Healthcare,Europe,3135.78,287,11.3,True,2025-10-19
+R100037,Blue Healthcare 37,Energy,APAC,489.17,414,85.0,True,2025-03-31
+R100038,Bright Healthcare 38,Education,MEA,2430.8,183,31.0,False,2024-02-16
+R100039,Lumen Healthcare 39,Retail,MEA,86.82,46,21.5,False,2024-08-13
+R100040,Cedar Healthcare 40,Fintech,APAC,3582.36,144,29.6,True,2025-05-04
+R100041,Peak Education 41,Energy,Europe,1496.3,380,33.8,True,2024-11-04
+R100042,Apex Real Estate 42,Real Estate,North America,516.09,364,89.1,False,2025-03-01
+R100043,North Healthcare 43,Healthcare,Europe,4523.4,454,65.8,True,2025-10-07
+R100044,Orbit Real Estate 44,Real Estate,LATAM,502.13,314,36.7,False,2025-05-06
+R100045,Quantum Logistics 45,SaaS,Europe,4351.25,41,62.8,True,2025-09-10
+R100046,Nova E-Commerce 46,Logistics,MEA,3954.41,299,27.3,True,2025-02-17
+R100047,Orbit Fintech 47,E-Commerce,APAC,3417.55,344,72.1,True,2024-06-04
+R100048,Orbit SaaS 48,Education,Europe,3518.53,186,52.1,False,2024-04-19
+R100049,Alpha Education 49,Real Estate,MEA,4537.83,332,87.3,True,2025-04-16
