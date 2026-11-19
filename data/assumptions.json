@@ -1,0 +1,17 @@
+{
+ "Purchase price ($)": 3450000,
+ "Target cap rate (%)": 5.75,
+ "Vacancy & credit loss (%)": 5,
+ "Property tax rate (% of price)": 1.05,
+ "Insurance ($/yr)": 18500,
+ "Management (% of EGI)": 4,
+ "R&M per unit ($/mo)": 85,
+ "Admin/misc ($/yr)": 9500,
+ "Replacement reserves ($/unit/yr)": 250,
+ "Loan LTV (%)": 65,
+ "Interest rate (%)": 6.25,
+ "Amortization (years)": 30,
+ "Annual rent growth (%)": 2.5,
+ "Expense growth (%)": 2.2,
+ "Holding period (years)": 10
+}
